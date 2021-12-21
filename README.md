@@ -6,6 +6,20 @@
 &ensp;<a href="https://www.facebook.com/merolasalvatore/"><img src="https://cdn.worldvectorlogo.com/logos/facebook-4.svg" title="Facebook" alt="Facebook" width="30"/></a>
 <br>
 
+I am a self-taught Front-End Web Developer working with React but mostly with Next.js.
+
+I have been coding for 3.6 years now, I love learn new Tech, and I am always excited when something new comes up.
+
+I would love to have a chance to start to work in tech, I keep myself update all the time even though my github statistics says the opposite, it is just because I have this bad habit to commit my projects when I have finished :sweat_smile:
+
+I am Quite interested to learn Web 3 and blockchain development, but until I find a job I will just focus on what I have done so far.
+
+I always try to build new projects and learn from any resource possible.
+
+I just Love to Code! :relaxed: :relaxed:
+
+
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=NewbieWebDev&show_icons=true&theme=radical"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewbieWebDev&layout=compact"/>
 

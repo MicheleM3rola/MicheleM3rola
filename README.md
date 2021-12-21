@@ -1,5 +1,7 @@
 # Hi there I am Michele 👋
 
+<a href="https://michele-merola.vercel.app/"><img src="https://pbs.twimg.com/profile_banners/1151152305447661568/1619234788/1500x500" title="Twitter" alt="Twitter Account" width="70%"/></a>
+
 <a href="https://twitter.com/MicheleMerola15"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
 &ensp;<a href="https://www.linkedin.com/in/michele-merola/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
 &ensp;<a href="https://github.com/NewbieWebDev"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" title="GitHub" alt="GitHub" width="30"/></a>
@@ -37,7 +39,7 @@ I just Love to Code! :relaxed: :relaxed:
 
 ## ⌨ Tech I Worked With
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -61,8 +63,9 @@ I just Love to Code! :relaxed: :relaxed:
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+	
 
-
+## 📖 Github Statistics
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=NewbieWebDev&show_icons=true&theme=radical"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewbieWebDev&layout=compact"/>

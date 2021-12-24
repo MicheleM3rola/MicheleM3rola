@@ -1,6 +1,7 @@
 # Hi there I am Michele 👋
+<img align="left" width="200" src="https://api.daily.dev/devcards/dcbe226260764e11a1ac8fe624afaead.png?r=wi8" width="200" alt="MrMichele's Dev Card"/>
+<a align="left" width="200" href="https://michele-merola.vercel.app/"><img src="https://pbs.twimg.com/profile_banners/1151152305447661568/1619234788/1500x500" title="Twitter" alt="Twitter Account" width="70%"/></a>
 
-<a href="https://michele-merola.vercel.app/"><img src="https://pbs.twimg.com/profile_banners/1151152305447661568/1619234788/1500x500" title="Twitter" alt="Twitter Account" width="70%"/></a>
 
 <a href="https://twitter.com/MicheleMerola15"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
 &ensp;<a href="https://www.linkedin.com/in/michele-merola/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
@@ -72,6 +73,7 @@ I just Love to Code! :relaxed: :relaxed:
 ## 📖 Github Statistics
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=NewbieWebDev&show_icons=true&theme=radical"/>
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewbieWebDev&layout=compact"/>
 
 

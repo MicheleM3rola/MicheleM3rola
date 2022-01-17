@@ -76,4 +76,4 @@ I just Love to Code! :relaxed: :relaxed:
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewbieWebDev&layout=compact"/>
 
-
+## 📝 Freelance Projects

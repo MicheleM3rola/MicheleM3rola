@@ -72,8 +72,8 @@ I just Love to Code! :relaxed: :relaxed:
 
 ## 📖 Github Statistics
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=NewbieWebDev&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MicheleM3rola&show_icons=true&theme=radical"/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewbieWebDev&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleM3rola&layout=compact"/>
 
 ## 📝 Freelance Projects
